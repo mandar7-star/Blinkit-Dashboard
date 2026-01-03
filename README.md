@@ -1,6 +1,6 @@
 # Blinkit-Dashboard
 
-📊 Project Title / Headline
+1. Project Title / Headline
 
 Blinkit Analytics Project focuses on analyzing grocery delivery data to uncover customer behavior, sales trends, and operational performance. The project uses data analytics techniques to generate meaningful insights and support data-driven decision-making. Visualizations and metrics are designed to reflect real-world business scenarios.
 
