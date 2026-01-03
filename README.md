@@ -56,3 +56,5 @@ Interactive Filters (Slicers) allow dynamic analysis by outlet location, outlet 
 📈 Business Impact & Insights
 
 The analysis reveals that Tier 3 locations and medium-sized outlets generate the highest sales contribution. Supermarket Type 1 dominates both revenue and item volume, while low-fat products outperform regular items in total sales. These insights support improved inventory planning, outlet expansion strategies, and category-level optimization.
+
+📸 Screenshots
