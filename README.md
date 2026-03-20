@@ -41,7 +41,7 @@ The dataset used in this Blinkit Analytics Project is a publicly available sampl
 
 Blinkit generates large volumes of transactional data across multiple outlets, locations, and product categories. Without proper analytics, it becomes difficult to identify high-performing outlets, customer preferences, and long-term sales trends.
 
----
+
 
 🔹 **Goal of the Dashboard**
 
